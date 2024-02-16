@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Maxime</h1>
 <h3 align="center">Stanford University & École Polytechnique</h3>
 
-- 👨‍💻 Computational Mathematics [Specialization in finance](Specialization in finance)
+- 👨‍💻 Computational Mathematics (Specialization in finance)
 
-- 📝 Cardiovacular Institute Stanford [Research Assistant](Research Assistant)
+- 📝 Cardiovacular Institute Stanford (Research Assistant)
 
 - 📫 How to reach me **mpedron@alumni.stanford.edu**
 
-- 📄 Quantitative Researcher [Hedge Fund](Hedge Fund)
+- 📄 Quantitative Researcher
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
